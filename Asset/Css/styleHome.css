@@ -1,0 +1,41 @@
+
+#slider .list-group {
+    position: relative!important;
+  }
+  
+  #slider .list-group-item {
+    border : none!important;
+    position: absolute!important;
+    top: 10vh;
+    left: 50%;
+    transform: translateX(-50%);
+  }  
+  
+  #slider .list-group-item img {
+      width: 35vw!important;
+      height: auto!important;
+      border-radius: 60px;
+      box-shadow: 10px 5px 5px grey;
+  }
+  
+  .previous, .next {
+      cursor: pointer;
+      position: absolute;
+      top: 27vh;
+      font-size: 2.5rem;
+      color: rgba(205, 3, 67, 0.5);
+  }
+  
+  .previous {
+      left:63vh;
+  }
+  .previous:hover{
+    color: white;
+  }
+  .next:hover{
+    color: white;
+  }
+  .next {
+      right:63vh;
+  }
+
