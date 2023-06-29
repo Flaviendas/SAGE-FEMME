@@ -28,9 +28,12 @@ include_once '../header/header.php';
 				<i class="next fa-solid fa-circle-chevron-right"></i>
 			</ul>
 		</div>
-		<section class="row text-center"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, temporibus.</section>
-		<section class="row text-center"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</section>
-		<section class="row text-center"> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui facere dolor obcaecati, aperiam fugit tempora quia id quod aut eos assumenda iste temporibus doloribus, harum vel porro voluptatibus impedit ipsa.</section>
+		<section class="row text-center"> <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, temporibus.</P>
+	</section>
+		<section class="row text-center"> <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
+	</section>
+		<section class="row text-center"> <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui facere dolor obcaecati, aperiam fugit tempora quia id quod aut eos assumenda iste temporibus doloribus, harum vel porro voluptatibus impedit ipsa.</P>
+	  </section>
 
 	</main>
 <!-- JQUERY -->
