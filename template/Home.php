@@ -16,6 +16,7 @@ include_once '../header/header.php';
 	</header>
 
 	<main class="container-fluid">
+		<section class="carrousel vh-100">
 		<div id="slider" class="row">
 
 			<ul class="list-group">
@@ -26,24 +27,44 @@ include_once '../header/header.php';
 
 				<i class="previous fa-solid fa-circle-chevron-left"></i>
 				<i class="next fa-solid fa-circle-chevron-right"></i>
-			</ul>
+			</ul>  
 		</div>
-	
+		</section>
 		
-    <!-- section a votre service  -->
-    <section id="service" class="row vh-100 text-center pt-5 mb-3 p-3 m-2 ms-auto">
-      <div class="col-12 pt-5">
-        <h2>A votre service !</h2>
-      </div>
-      <div class="col-sm-6 col-lg-4">
-	  <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
-      </div>
-      <div class="col-sm-6 col-lg-4">
-	  <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
-      </div>
-      <div class="col-sm-6 col-lg-4">
-	  <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui facere dolor obcaecati, aperiam fugit tempora quia id quod aut eos assumenda iste temporibus doloribus, harum vel porro voluptatibus impedit ipsa.</P>
-      </div>
+    <!-- section  notre-metier -->
+     <section id="notre-metier" class="row text-center pt-5 mb-3 p-3 m-2 gx-5 gy-5 g-2 justify-content-center">
+      		<div class="col-sm-6 col-lg-2">
+					<div class="card border-dark mb-3 col-12" style="max-width: 18rem;">
+						<div class="card-header">Header</div>
+						<div class="card-body">
+							<h5 class="card-title">Dark card title</h5>
+							<p class="card-text"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, reprehenderit?</p>
+						</div>
+					</div>
+			</div>
+      		
+			  
+      		<div class="col-sm-6 col-lg-2">
+					<div class="card border-dark mb-3 col-12" style="max-width: 18rem;">
+						<div class="card-header">Header</div>
+						<div class="card-body">
+							<h5 class="card-title">Dark card title</h5>
+							<p class="card-text"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, necessitatibus.</p>
+						</div>
+					</div>
+			</div>
+    
+      		<div class="col-sm-6 col-lg-2">
+			
+					<div class="card border-dark mb-3 col-12" style="max-width: 18rem;">
+						<div class="card-header">Header</div>
+						<div class="card-body">
+							<h5 class="card-title">Dark card title</h5>
+							<p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, assumenda?</p>
+						</div>
+					</div>
+			</div>
+      
     </section>
 	</main>
 <!-- JQUERY -->

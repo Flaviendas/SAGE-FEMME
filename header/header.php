@@ -23,16 +23,16 @@
             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                 <ul class="navbar-nav  ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" aria-current="page" href="#">Accueil</a>
+                        <a class="nav-link text-secondary" aria-current="page" href="../template/Home.php">Accueil</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-secondary" href="../template/notremetier.php">Notre Métier</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#">Nous Trouver</a>
+                        <a class="nav-link text-secondary" href="../template/trouver.php">Nous Trouver</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#">Lien utile</a>
+                        <a class="nav-link text-secondary" href="../template/lien.php">Lien utile</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-secondary" href="#">Espace Pro</a>
