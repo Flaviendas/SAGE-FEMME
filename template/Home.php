@@ -28,13 +28,23 @@ include_once '../header/header.php';
 				<i class="next fa-solid fa-circle-chevron-right"></i>
 			</ul>
 		</div>
-		<section class="row text-center"> <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, temporibus.</P>
-	</section>
-		<section class="row text-center"> <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
-	</section>
-		<section class="row text-center"> <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui facere dolor obcaecati, aperiam fugit tempora quia id quod aut eos assumenda iste temporibus doloribus, harum vel porro voluptatibus impedit ipsa.</P>
-	  </section>
-
+	
+		
+    <!-- section a votre service  -->
+    <section id="service" class="row vh-100 text-center pt-5 mb-3 p-3 m-2 ms-auto">
+      <div class="col-12 pt-5">
+        <h2>A votre service !</h2>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+	  <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+	  <P>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores amet fugit enim soluta ea consectetur, minus nulla ipsum? Maxime consequuntur vitae perspiciatis natus adipisci consectetur tempore officia libero, similique aperiam?</P>
+      </div>
+      <div class="col-sm-6 col-lg-4">
+	  <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui facere dolor obcaecati, aperiam fugit tempora quia id quod aut eos assumenda iste temporibus doloribus, harum vel porro voluptatibus impedit ipsa.</P>
+      </div>
+    </section>
 	</main>
 <!-- JQUERY -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" integrity="sha512-3gJwYpMe3QewGELv8k/BX9vcqhryRdzRMxVfq6ngyWXwo03GFEzjsUm8Q7RZcHPHksttq7/GFoxjCVUjkjvPdw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

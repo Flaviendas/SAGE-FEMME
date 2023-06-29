@@ -6,7 +6,7 @@
   #slider .list-group-item {
     border : none!important;
     position: absolute!important;
-    top: 10vh;
+    top: 5vh;
     left: 50%;
     transform: translateX(-50%);
   }  
