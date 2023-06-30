@@ -1,0 +1,18 @@
+img{
+width: 346px;
+height: 524px;
+border-radius: 49px;
+top: 10vh;
+}
+.bg-primary{
+background-color: rgba(205, 3, 67, 0.47)!important;
+margin-top: 60px;
+}
+
+.form-control{
+  background-color:#D9D9D9;  
+}
+.text-white{
+    color:rgba(205, 3, 67, 0.47)!important ;
+}
+

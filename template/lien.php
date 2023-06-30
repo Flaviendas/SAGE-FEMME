@@ -14,7 +14,7 @@ include '../header/header.php';
 
 <body>
     
-    <main class="container">
+    <main class="container-fluid">
 
 <section class="row" id="Lien_utile">
 
