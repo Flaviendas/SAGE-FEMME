@@ -3,7 +3,7 @@
 }
 
 .navbar .navbar-nav  .nav-link:hover{
-    color: white !important;
+    background-color: white!important;
  
 } 
  .navbar .navbar-nav a{
@@ -12,11 +12,7 @@
 
   .navbar .navbar-nav a:active{
     color: white;
-   
-
+    background-color: white;
 }  
-.navbar .navbar-nav a.active{
- background-color: rgba(227, 85, 130, .5);
-    border-top-color: #B5003A;
-}
+
 

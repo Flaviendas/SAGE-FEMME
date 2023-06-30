@@ -6,37 +6,33 @@ include_once '../header/header.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Asset/Css/stylemetier.css">
     <title>Notre Metier</title>
 </head>
 <body>
-    <section id="apropos" class="row vh-100 text-center align-items-center">
-      <div class="col">
-        <h2>Nous avons ce que vous chercher !</h2>
-        <p>Contactez nous pour plus d'information</p>
-        <a href="#contact" class="btn btn-primary">Nous Contactez</a>
-      </div>
-    </section>
+<main >
     <!-- section a votre service  -->
-    <section id="service" class="row vh-100 text-center text-white">
-      <div class="col-12 pt-5">
-        <h2>A votre service !</h2>
+    <section id="notre_metier">
+      <div>
+        <h2>Titre page</h2>
       </div>
-      <div class="col-sm-6 col-lg-3">
-        <i class="fa-regular fa-gem fa-10x"></i>
+      <article>
+       <img src="../Asset/Images/photo-1439920120577-eb3a83c16dd7.jpg" alt="">
         <p class="fs-4">Des service de grande valeur</p>
-      </div>
-      <div class="col-sm-6 col-lg-3">
-        <i class="fa-regular fa-paper-plane fa-10x"></i>
+      </article>
+      <article>
+        <img src="../Asset/Images/photo-1566780592041-0a2e69c5ef09.jpg" alt="">
         <p class="fs-4">Une expedition a moindre cout </p>
-      </div>
-      <div class="col-sm-6 col-lg-3">
-        <i class="fa-regular fa-newspaper fa-10x"></i>
+      </article>
+      <article >
+        <img src="../Asset/Images/photo-1612129727401-13b7676cf47e.jpg" alt="">
         <p class="fs-4">Des mises a jour regulières</p>
-      </div>
-      <div class="col-sm-6 col-lg-3">
-        <i class="fa-solid fa-heart fa-10x"></i>
+      </article>
+      <article>
+        <img src="" alt="">
         <p class="fs-4">Une equipe de passionés</p>
-      </div>
+      </article>
     </section>
+    </main>
 </body>
 </html>
