@@ -35,7 +35,7 @@
                         <a class="nav-link text-secondary" href="../template/lien.php">Lien utile</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-secondary" href="#">Espace Pro</a>
+                        <a class="nav-link text-secondary" href="../template/pro.php">Espace Pro</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle text-secondary" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

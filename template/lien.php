@@ -18,12 +18,12 @@ include '../header/header.php';
 
 <section class="row" id="Lien_utile">
 
-        <div class="col-sm col-lg">
+        <div class="col-sm-6 col-lg-5 p-2 px-2 m-2">
             <img class="img-responsive img-rounded" src="../Asset/Images/photo-1503555990554-fa50619a3da8.jpg" alt="Image">
         </div>
         
     
-    <div class="col-sm-4 col-lg-4">
+    <div class="col-sm-4 col-lg-4 p-2  m-2">
 
         <table class="table table-sm  table-striped-columns  text-center">
 
