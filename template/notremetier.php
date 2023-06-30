@@ -10,12 +10,9 @@ include_once '../header/header.php';
     <title>Notre Metier</title>
 </head>
 <body>
-<main >
+<main>
     <!-- section a votre service  -->
-    <section id="notre_metier">
-      <div>
-        <h2>Titre page</h2>
-      </div>
+     
       <article>
        <img src="../Asset/Images/photo-1439920120577-eb3a83c16dd7.jpg" alt="">
         <p class="fs-4">Des service de grande valeur</p>
@@ -32,7 +29,7 @@ include_once '../header/header.php';
         <img src="" alt="">
         <p class="fs-4">Une equipe de passionés</p>
       </article>
-    </section>
-    </main>
+   
+</main>
 </body>
 </html>
